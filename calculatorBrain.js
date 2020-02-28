@@ -18,6 +18,10 @@ function onNumberClicked(numberButton){
 
 function onClearClicked()
 {
+    FirstNumberadd=0;
+    FirstNumbermult=0;
+    FirstNumberdiv=0;
+    FirstNumbersub=0;
     result.innerHTML = "0";
 }
 
